@@ -1,1 +1,1 @@
-test("should ", () => {});
+export const AMAP_KEY = "";
